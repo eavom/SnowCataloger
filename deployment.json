@@ -1,0 +1,22 @@
+{
+    "app_name"      : "snowcataloger",
+    "app_version"   : "1.0.0",
+    "objects" : [
+        {
+            "object_type" : "tables",
+            "object_path" : "./tables",
+            "ordect_list" : [
+                "catalog_version",
+                "catalog_settings",
+                "catalog_domain",
+                "catalog_glossary",
+                "catalog_item",
+                "catalog_attribute",
+                "catalog_synonyms",
+                "catalog_attribute_synonyms",
+                "catalog_data_profile",
+                "catalog_liniage"
+            ]
+        }
+    ]
+}
